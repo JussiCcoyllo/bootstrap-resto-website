@@ -1,3 +1,87 @@
-.container-principal {
+a:hover { 
+	color: #24d3c4 !important;
+	font-weight: bold;
+}
+nav {
+	text-transform: uppercase; 
+}
+body {
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 
+}
+
+.jumbotron img{
+	height: 100px;
+}
+
+.jumbotron h3{
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	color: #fff;
+	padding: 10px;
+	text-shadow: 2px 1px black;
+}
+
+.jumbotron span{
+	color: #24d3c4;
+	background-color: black;
+}
+
+footer {
+	margin-top: 60px;
+	color: white;
+	margin-bottom: 0px;
+
+}
+.page-footer{
+	height: 300px;
+}
+footer h3{
+	margin-bottom: 20px;
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	color: #24d3c4;
+	font-size: 45px;
+}
+
+.py-5{
+	padding-bottom: 0px !important;
+}
+
+.jumbotron-fluid {
+	text-align: center;
+	background-image: url(../img/bright-citrus-citrus-fruit-1898261.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+.container .p h2 {
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	
+}
+
+.text-center {
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	margin-bottom: 20px;
+	text-align: center;
+	color: #0aaf20;
+
+}
+
+.card-text {
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	color: #fff;
+	font-size: 20px;
+	background-color: rgba(0,0,0,0.5);
+	
+}
+
+.form {
+	background-color: lightgrey;
+	padding: 40px;
+	color: #000;
+}
+
+#carte{
+	text-align: center;
+	color: #0aaf20;
 }
